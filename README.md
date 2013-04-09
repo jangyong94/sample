@@ -19,11 +19,9 @@ Education
 Skills
 ======
 
-- The final candidate of Korea national team for IAO
-  	(IAO:International Astronmy Olympiad)
+- The final candidate of Korea national team for IAO(International Astronmy Olympiad)
 - Level 2 Recoginition of Excellence from International TRIZ Association
-- TESAT(Test of Economic Sense And Thinking) Level 1
-		(Certificated by the Korean Government)
+- TESAT(Test of Economic Sense And Thinking) Level 1 which is certificated by the Korean Government
 
 Projects
 ========
