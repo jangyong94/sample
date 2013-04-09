@@ -7,7 +7,6 @@ POSTECH(Pohang University of Science and Technology)<br/>
 77 Cheongam-Ro, Nam-gu, Pohang, Gyeongbuk, Korea 790-784<br/>
 TEL. +82-10-7440-8191<br/>
 >E-mail. jangyong94@postech.ac.kr<br/>
-<br/>
 
 Education
 =========
