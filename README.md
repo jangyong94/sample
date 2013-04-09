@@ -1,11 +1,11 @@
 Resume
 ======
 
-Yong Jang<br/>
+>Yong Jang<br/>
 Department of Creative IT Engineering<br/>
 POSTECH(Pohang University of Science and Technology)<br/>
 TEL. +82-10-7440-8191<br/>
-E-mail. jangyong94@postech.ac.kr<br/><br/>
+>E-mail. jangyong94@postech.ac.kr<br/><br/>
 
 Education
 =========
