@@ -43,7 +43,7 @@ company.
 ### PROJECTS ###
 
 - Proposer of CiTE research project: "Diffractive 2D Laser Projector", 2013
-- Planning to make "smart taxi system", "smart precedent search engine", Creative IT design class
+- Planning to make "Smart Taxi System", "Smart Precedent Search Engine", Creative IT design class
 - Designing a better hair styling wax globe<br/><br/>
 
 >Yong Jang<br/>
