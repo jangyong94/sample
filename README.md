@@ -1,7 +1,7 @@
 Yong Jang
 =========
 
-## Education
+### Education ###
 
 
 - Suil Middle School (Valedictorian), 2010
