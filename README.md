@@ -1,4 +1,4 @@
-.center{Yong Jang};
+<center> Yong Jang
 ------
 * * *
 - - - - -
