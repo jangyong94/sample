@@ -26,10 +26,10 @@ Work Experiences
 Skills
 ======
 
-- The final candidate of Korea national team for IAO(International Astronmy Olympiad)
-- Gifted student Award in Gyeonggi Province (one of the 5 recipients)
-- Level 2 Recoginition of Excellence from International TRIZ Association
-- TESAT(Test of Economic Sense And Thinking) Level 1 which is certificated by the Korean Government
++ The final candidate of Korea national team for IAO(International Astronmy Olympiad)
++ Gifted student Award in Gyeonggi Province (one of the 5 recipients)
++ Level 2 Recoginition of Excellence from International TRIZ Association
++ TESAT(Test of Economic Sense And Thinking) Level 1 which is certificated by the Korean Government
 
 Projects
 ========
