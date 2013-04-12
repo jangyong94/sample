@@ -42,8 +42,7 @@ company.
 
 ## Projects ##
 
-- Proposer of research project: "Diffractive 2D Laser Projector"<br/>
-  which is supported by the MKE(The ministry of Knowledge Economy), Korea(2012-)
+- Proposer of research project: "Diffractive 2D Laser Projector"<br/> which is supported by the MKE(The ministry of Knowledge Economy), Korea(2012-)
 
 
 
