@@ -20,12 +20,12 @@ I certain I will learn many things from it and I will do my best to contibute to
 ### MISCELLANEOUS ###
 
 - Postech Student Council, 2012~
-- Member, Music club, 2013~
-- Member, Guitar club, 2012~
+- Music club in Postech, 2013~
+- Guitar club in Postech, 2012~
 - CiTE honorary ambassador, 2012~
 - Participating special lecture, the bank of Korea, 2013~
 - Education volunteering, 2010-2011
-- Class president, 2001-2011
+- Class president in a row, 2001-2011
 - President, Physics interest club, 2010-2012
 - President, Debating club, 2010-2012
 - Legislative assistant in the Korean National Assembly, 2006
@@ -36,14 +36,16 @@ I certain I will learn many things from it and I will do my best to contibute to
 - Gifted student Award in Gyeonggi Province (one of the 5 recipients)
 - Level 2 Recoginition of Excellence from International TRIZ Association
 - TESAT(Test of Economic Sense And Thinking) Level 1 which is certificated by the Korean Government
-- Level 1 Physics certification(1-2 grade Physics major level), Korea Physics Society 
+- Level 1 Physics certification(1-2 grade Physics major level), Korea Physics Society
+- Win many prizes in science, mathematics, physics, debating contests.(Including several minister prizes)
+- Studied eastern classics, Islam, Psyhcology, chineese character, etc.
 - MS windows, MS office, prezi, C, MATLAB
 
 ### PROJECTS ###
 
 - Proposer of CiTE research project: "Diffractive 2D Laser Projector", 2013
 - Planning to make "Smart Taxi System", "Smart Precedent Search Engine", Creative IT design class
-- Designing a better hair styling wax globe<br/><br/>
+- Designing a useful hair styling wax globe<br/><br/>
 
 >Yong Jang<br/>
 Undergraduate Student, Department of Creative IT Engineering(CiTE)<br/>
