@@ -1,14 +1,7 @@
 Yong Jang
 ---------
 
->Yong Jang<br/>
-Department of Creative IT Engineering<br/>
-POSTECH(Pohang University of Science and Technology)<br/>
-77 Cheongam-Ro, Nam-gu, Pohang, Gyeongbuk, Korea 790-784<br/>
-TEL. +82-10-7440-8191<br/>
->E-mail. jangyong94@postech.ac.kr<br/>
-
-### Education
+## Education
 
 
 - Suil Middle School (Valedictorian), 2010
@@ -16,8 +9,7 @@ TEL. +82-10-7440-8191<br/>
 - Stony Brook University (Exchange Program), 2012
 - Postech, 2012~
 
-Work Experiences
-================
+## Work Experiences
 
 - Legislative assistant in the Korean National Assembly, 2006
 - Class president, 2001-2011
@@ -36,3 +28,10 @@ Projects
 
 - Proposer of research project: "Diffractive 2D Laser Projector"<br/>
   which is supported by the MKE(The ministry of Knowledge Economy), Korea(2012-)
+
+>Yong Jang<br/>
+Department of Creative IT Engineering<br/>
+POSTECH(Pohang University of Science and Technology)<br/>
+77 Cheongam-Ro, Nam-gu, Pohang, Gyeongbuk, Korea 790-784<br/>
+TEL. +82-10-7440-8191<br/>
+>E-mail. jangyong94@postech.ac.kr<br/>
