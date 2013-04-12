@@ -5,7 +5,7 @@
 I want to build a technical firm which links people who needs technics with specific engineers or scientists in the 
 future. And I am preparing it by doing a research, planning a smaller business ideas. For an example, I am planning a 
 business model such as making a smart precedent search engine which helps people to predict the probability of winning 
-the lawsuit on the basis of precedents and links appropriate lawyers in the Creative IT planning class. Working and 
+the lawsuit on the basis of precedents and links appropriate lawyers in the Creative IT design class. Working and 
 watching the whole process of running a venture company will help me to achieve my goal in many ways. Although I won't 
 be a great help to the company, I certain I shall learn many things from it and I will do my best to contribute to the 
 company.
@@ -38,13 +38,13 @@ company.
 - Level 2 Recoginition of Excellence from International TRIZ Association
 - TESAT(Test of Economic Sense And Thinking) Level 1 which is certificated by the Korean Government
 - Level 1 Physics certification(1-2 grade Physics major level), Korea Physics Society 
-- Ms office, prezi, C, MATLAB
+- MS windows, MS office, prezi, C, MATLAB
 
-## Projects ##
+### PROJECTS ###
 
-- Proposer of research project: "Diffractive 2D Laser Projector" which is supported by the MKE(The ministry of Knowledge Economy), Korea(2012-)
-
-
+- Proposer of CiTE research project: "Diffractive 2D Laser Projector", 2013
+- Planning to make "smart taxi system", "smart precedent search engine", Creative IT design class
+- Designing a better hair styling wax globe
 
 >Yong Jang<br/>
 Department of Creative IT Engineering<br/>
