@@ -47,7 +47,7 @@ company.
 - Designing a better hair styling wax globe
 
 >Yong Jang<br/>
-Department of Creative IT Engineering<br/>
+Undergraduate Student, Department of Creative IT Engineering(CiTE)<br/>
 POSTECH(Pohang University of Science and Technology)<br/>
 77 Cheongam-Ro, Nam-gu, Pohang, Gyeongbuk, Korea 790-784<br/>
 TEL. +82-10-7440-8191<br/>
