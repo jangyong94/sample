@@ -1,6 +1,10 @@
 # Yong Jang
 ***
 
+### OBJECTIVE ###
+
+
+
 ## Education ##
 
 - Suil Middle School (Valedictorian), 2010
