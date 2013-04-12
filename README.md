@@ -1,5 +1,5 @@
 Resume
-======
+------
 
 >Yong Jang<br/>
 Department of Creative IT Engineering<br/>
