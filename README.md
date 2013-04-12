@@ -2,15 +2,21 @@
 ***
 
 ### OBJECTIVE ###
+I want to build a technical firm which links people who needs technics with specific engineers or scientists in the 
+future. And I am preparing it by doing a research, planning a smaller business ideas. For an example, I am planning a 
+business model such as making a smart precedent search engine which helps people to predict the probability of winning 
+the lawsuit on the basis of precedents and links appropriate lawyers in the Creative IT planning class. Working and 
+watching the whole process of running a venture company will help me to achieve my goal in many ways. Although I won't 
+be a great help to the company, I certain I shall learn many things from it and I will do my best to contribute to the 
+company.
 
 
+### Education ###
 
-## Education ##
-
-- Suil Middle School (Valedictorian), 2010
-- Gyeonggi-Buk Science High School (Graduated Early), 2012
-- Stony Brook University (Exchange Program), 2012
-- Postech, 2012~
+- Postech, Pohang. Creative IT Engineering(CiTE) Major. 2012~
+- Stony Brook University, New York. Exchange Program. 2012
+- Gyeonggi-Buk Science High School. Graduated Early. 2012
+- Suil Middle School. Valedictorian. 2010
 
 ## Work Experiences ##
 
