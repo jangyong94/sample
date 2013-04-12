@@ -1,8 +1,7 @@
 Yong Jang
-=========
+***
 
 ## Education ##
-
 
 - Suil Middle School (Valedictorian), 2010
 - Gyeonggi-Buk Science High School (Graduated Early), 2012
