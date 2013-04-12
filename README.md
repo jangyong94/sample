@@ -44,7 +44,7 @@ company.
 
 - Proposer of CiTE research project: "Diffractive 2D Laser Projector", 2013
 - Planning to make "smart taxi system", "smart precedent search engine", Creative IT design class
-- Designing a better hair styling wax globe
+- Designing a better hair styling wax globe<br/><br/>
 
 >Yong Jang<br/>
 Undergraduate Student, Department of Creative IT Engineering(CiTE)<br/>
