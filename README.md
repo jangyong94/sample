@@ -3,12 +3,11 @@
 
 ### OBJECTIVE ###
 I want to build a technical firm which links people who needs technics with specific engineers or scientists in the 
-future. And I am preparing it by doing a research, planning a smaller business ideas. For an example, I am planning a 
+future. And I am preparing it by conducting a research, planning several projects, etc. For an example, I am planning a 
 business model such as making a smart precedent search engine which helps people to predict the probability of winning 
-the lawsuit on the basis of precedents and links appropriate lawyers in the Creative IT design class. Working and 
-watching the whole process of running a venture company will help me to achieve my goal in many ways. Although I won't 
-be a great help to the company, I certain I shall learn many things from it and I will do my best to contribute to the 
-company.
+the lawsuit on the basis of precedents and links them to appropriate lawyers in the Creative IT design class.<br/>
+Watching the whole process of running a venture company will help me to achieve my goal and shape up my plans in many ways.
+I certain I will learn many things from it and I will do my best to contibute to the company with passion.
 
 
 ### EDUCATION ###
