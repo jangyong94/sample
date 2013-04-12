@@ -8,7 +8,7 @@ POSTECH(Pohang University of Science and Technology)<br/>
 TEL. +82-10-7440-8191<br/>
 >E-mail. jangyong94@postech.ac.kr<br/>
 
-###### Education
+### Education
 
 
 - Suil Middle School (Valedictorian), 2010
