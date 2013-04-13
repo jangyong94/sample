@@ -48,7 +48,8 @@ I am certain I will learn many things from it and I will do my best to contibute
 - Planning to make "Smart Taxi System", "Smart Precedent Search Engine", Creative IT design class
 <br/>: Learning how to make a business model by analyzing market's demand and supply
 - Designing a useful hair styling wax globe
-<br/>: Making a real model from a small idea and studying about the patents<br/>
+<br/>: Making a real model from a small idea and studying about the patents
+<br/><br/>
 
 >Yong Jang<br/>
 Undergraduate Student, Department of Creative IT Engineering(CiTE)<br/>
