@@ -46,8 +46,9 @@ I am certain I will learn many things from it and I will do my best to contibute
 - Proposer of CiTE research project: "Diffractive 2D Laser Projector", 2013
 <br/>: Learning how to conduct a long term project(over 1 year) and using limited capital effectively
 - Planning to make "Smart Taxi System", "Smart Precedent Search Engine", Creative IT design class
-  : Learning 
-- Designing a useful hair styling wax globe<br/><br/>
+<br/>: Learning how to make a business model by analyzing market's demand and supply
+- Designing a useful hair styling wax globe
+<br/>: Making a real model from a small idea and studying about the patents
 
 >Yong Jang<br/>
 Undergraduate Student, Department of Creative IT Engineering(CiTE)<br/>
